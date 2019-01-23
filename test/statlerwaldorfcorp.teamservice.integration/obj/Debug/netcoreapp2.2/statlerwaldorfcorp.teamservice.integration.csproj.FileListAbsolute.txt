@@ -1,0 +1,17 @@
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.deps.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.runtimeconfig.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.pdb
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.pdb
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.AssemblyInfo.cs
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.csproj.CopyComplete
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.integration\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.integration.pdb

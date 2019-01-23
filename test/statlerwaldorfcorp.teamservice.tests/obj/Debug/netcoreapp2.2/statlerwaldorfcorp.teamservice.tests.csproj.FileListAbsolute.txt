@@ -1,0 +1,17 @@
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.AssemblyInfo.cs
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.deps.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.runtimeconfig.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.pdb
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.pdb
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.csproj.CopyComplete
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\test\statlerwaldorfcorp.teamservice.tests\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.teamservice.tests.pdb
